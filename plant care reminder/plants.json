@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Rose",
+        "water": "Every 2 days",
+        "sunlight": "Full sunlight",
+        "status": "Watered today \u2713",
+        "last_watered": "24-09-2026 09:03 AM"
+    },
+    {
+        "name": "sun flower",
+        "water": "every 5 days",
+        "sunlight": "full sunlight"
+    },
+    {
+        "name": "flower",
+        "water": "every 3 days",
+        "sunlight": "full sunlight",
+        "status": "Watered today \u2713",
+        "last_watered": "24-09-2026 09:34 AM"
+    },
+    {
+        "name": "money plant",
+        "water": "every 2 days",
+        "sunlight": "full sunlight",
+        "status": "Watered today \u2713",
+        "last_watered": "28-09-2026 08:23 AM"
+    }
+]
